@@ -1,0 +1,39 @@
+
+dinophysis caudata
+corethron
+eucampia
+ditylum
+navicula
+chaetoceros
+ceratium fusus
+skeletonema
+biddulphia
+ceratium furca
+rhizosolenia
+ceratium trichoceros
+ceratium tripos
+thalassionema frauenfeldii
+detonula pumila
+helicotheca
+pleurosigma pelagicum
+ceratium carriense
+thalassionema nitzschioides
+guinardia flaccida
+protoperidinium
+bacteriastrum
+coscinodiscus Flank
+thalassiosira
+'Coscinodiscus', 'Dinophysis caudata', 'Corethron', 'Eucampia', 'Ditylum', 'Navicula',
+    'Chaetoceros', 'Ceratium fusus', 'Skeletonema', 'Biddulphia', 'Ceratium furca', 'Rhizosolenia',
+    'Ceratium trichoceros', 'Ceratium tripos', 'Thalassionema frauenfeldii', 'Detonula pumila',
+    'Helicotheca','Pleurosigma pelagicum', 'Ceratium carriense', 'Thalassionema nitzschioides',
+    'Guinardia flaccida','Protoperidinium', 'Bacteriastrum', 'Coscinodiscus Flank', 'Thalassiosira'
+
+'coscinodiscus', 'dinophysis caudata', 'corethron', 'eucampia', 'ditylum', 'navicula',
+    'chaetoceros', 'ceratium fusus', 'skeletonema', 'biddulphia', 'ceratium furca', 'rhizosolenia',
+    'ceratium trichoceros', 'ceratium tripos', 'thalassionema frauenfeldii', 'detonula pumila',
+    'helicotheca','pleurosigma pelagicum', 'ceratium carriense', 'thalassionema nitzschioides',
+    'guinardia flaccida','protoperidinium', 'bacteriastrum', 'coscinodiscus Flank', 'thalassiosira'
+
+
+"/tank/nfs/data/outputs/zhangtongtong/fpn_tensorflow/VOCdevkit/VOCdevkit_test/JPEGImages/"
