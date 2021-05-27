@@ -1,7 +1,10 @@
 # PMID2019
 Phytoplankton Microscopic Image Dataset for Intelligent Marine Agriculture
 
-The Dataset File contains the Badidu Disk Link of the dataset: https://pan.baidu.com/s/1DkgRdzMEdc1opJag-grSmA. 
+The Dataset File contains:
+
+the Badidu Disk Link of the dataset: https://pan.baidu.com/s/1DkgRdzMEdc1opJag-grSmA.
+the Google Drive Link of the dataset: https://drive.google.com/drive/folders/1k8xGkoWvIg1EaOLcrQu3MKRp_Dq0uC_p
 
 You can download it to the local.
 
